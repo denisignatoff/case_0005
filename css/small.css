@@ -1,0 +1,180 @@
+.map__address {
+  position: static;
+}
+
+.partnership__text p {
+  font-size: 16px;
+}
+
+.section__title h2 {
+  font-size: 30px;
+}
+
+.aboutUs__img {
+  max-width: 100%;
+}
+
+.faq__text {
+  font-size: 16px;
+}
+
+.signinShow__title {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.signinShow .getAdvice__container {
+  flex-direction: column;
+  margin-left: 0;
+}
+.signinShow .getAdvice__img {
+  display: none;
+}
+
+.signinShow .getAdvice__submit {
+  width: 237px;
+  margin: 20px 0;
+}
+
+.show__item_signin {
+  padding: 0;
+  font-size: 16px;
+}
+
+.getAdvice__img {
+  position: absolute;
+  top: 5px;
+  left: 0;
+}
+
+.getAdvice__container {
+  flex-direction: column;
+  margin-right: 0;
+  position: relative !important;
+  width: 237px;
+}
+
+.getAdvice__submit {
+  margin: 20px 0;
+  width: 237px;
+}
+
+.service__text {
+  padding: 0;
+}
+
+.content__list {
+  margin-right: 0;
+}
+
+.content__list li {
+  margin-left: 10px;
+}
+
+.invitation__title {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.main-image__text {
+  position: static;
+}
+
+.main-image .getAdvice {
+  position: static;
+}
+
+.main-image .container {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.main-image__title {
+  font-size: 30px;
+  line-height: 36px;
+}
+
+.main-image__text {
+  padding: 0;
+}
+
+.comparison__table {
+  margin-top: 20px;
+}
+
+.comparison__table table {
+  display: block;
+  max-width: 100%;
+}
+
+.aboutUs__img {
+  min-width: 0;
+}
+
+.getAdvice__container {
+  position: static;
+  margin: 0 auto;
+  margin-top: 20px;
+}
+
+.invitation__form {
+  padding: 0;
+  padding-top: 10px;
+}
+
+.signinShow .getAdvice__container {
+  margin: 0 auto;
+}
+
+.section__title {
+  min-height: 0;
+}
+
+.paint,
+.service__paint {
+  top: 0 !important;
+}
+
+.show .section__title h2 {
+  margin: 40px 0;
+}
+
+.catalog__item {
+  margin-bottom: 10px;
+}
+
+.content__list {
+  padding: 0;
+}
+
+.advantages__item {
+  margin-top: 10px;
+}
+
+.advantages__item:last-child {
+  margin-bottom: 10px;
+}
+
+.advantages .section__title {
+  height: 160px;
+}
+
+.service__item_par {
+  margin: 20px 0;
+}
+
+.service__item_text {
+  margin-top: 20px;
+}
+
+.show .section__title h2 {
+  margin: 20px 0;
+}
+
+.aboutUs__img img {
+  margin-bottom: 10px;
+}
+
+.aboutUs__text p {
+  margin: 15px 0;
+}

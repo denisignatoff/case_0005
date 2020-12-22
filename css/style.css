@@ -1,0 +1,5 @@
+@import url(fonts/stylesheet.css);
+@import url(large.css);
+@import url(medium.css) (max-width: 1199px);
+@import url(small.css) (max-width: 600px);
+@import url(paint.css);

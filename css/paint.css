@@ -1,0 +1,53 @@
+@media (max-width: 600px) {
+  .paint.first {
+    top: 0;
+  }
+}
+
+@media (max-width: 420px) {
+  .paint.first {
+    left: 0;
+  }
+}
+
+@media (max-width: 915px) {
+  .paint.second {
+    left: 0;
+  }
+}
+
+@media (max-width: 830px) {
+  .paint.third {
+    left: 0;
+  }
+}
+
+@media (max-width: 779px) {
+  .paint.fourth {
+    left: 0;
+  }
+}
+
+@media (max-width: 699px) {
+  .service__paint {
+    left: 0;
+  }
+}
+
+@media (max-width: 451px) {
+  .paint.fifth {
+    left: 0;
+  }
+}
+
+@media (max-width: 445px) {
+  .paint.sixth {
+    left: 0;
+  }
+}
+
+@media (max-width: 460px) {
+  .paint.seventh {
+    left: 0;
+  }
+}
